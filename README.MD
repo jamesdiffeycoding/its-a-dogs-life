@@ -13,3 +13,10 @@ Now we're on the new branch. If I  `add., commit and push` let's see what happen
 Doh! You need to `git push --set-upstream origin newbranch` first so they are linked.
 
 This makes the branch viewable in GitHub.
+
+All good so far. I ran a pull request and deleted the branch.
+
+Now let's complicate it by creating two branches at once `git branch one` and `git branch two`.
+
+These won't show in GitHub until a push from main is completed, and their upstream branches are set `git push --set-upstream origin newbranchname`.
+
