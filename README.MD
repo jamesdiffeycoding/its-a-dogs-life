@@ -11,3 +11,5 @@ Now let's create a branch with `git branch newbranch` and go to it with `git che
 Now we're on the new branch. If I  `add., commit and push` let's see what happens.
 
 Doh! You need to `git push --set-upstream origin newbranch` first so they are linked.
+
+This makes the branch viewable in GitHub.
