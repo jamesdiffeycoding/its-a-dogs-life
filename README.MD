@@ -23,3 +23,4 @@ These won't show in GitHub until a push from main is completed, and their upstre
 This sentence was written on branch one to be pushed and merged into main.
 
 This sentence was written on branch two to be pushed and merged into main.
+This sentence was also written on branch two to be pushed and merged into main.
