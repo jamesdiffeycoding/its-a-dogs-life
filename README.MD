@@ -21,3 +21,6 @@ Now let's complicate it by creating two branches at once `git branch one` and `g
 These won't show in GitHub until a push from main is completed, and their upstream branches are set `git push --set-upstream origin newbranchname`.
 
 This sentence was written on branch one to be pushed and merged into main.
+
+This sentence was written on branch two to be pushed and merged into main.
+This sentence was also written on branch two to be pushed and merged into main.
